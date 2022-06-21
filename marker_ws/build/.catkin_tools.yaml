@@ -1,0 +1,6 @@
+devel_space: /home/robo/Documents/TP_Note_ROS/marker_ws/devel
+install: false
+install_space: /home/robo/Documents/TP_Note_ROS/marker_ws/install
+profile: default
+source_space: /home/robo/Documents/TP_Note_ROS/marker_ws/src
+workspace: /home/robo/Documents/TP_Note_ROS/marker_ws
